@@ -3,7 +3,7 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
-const Home: NextPage = () => {
+const Home: NextPage = (https://www.love.khao.today/2023/04/18/be-watch-citizens-the-brutal-battle-of-mongoose-vs-cobra-which-ends-in-misery/v) => {
   return (
     <div className={styles.container}>
       <Head>
